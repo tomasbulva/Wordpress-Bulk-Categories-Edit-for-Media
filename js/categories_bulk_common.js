@@ -1,4 +1,6 @@
   jQuery(document).ready(function(){
+  
+  // -- test 
     
     jQuery('form#posts-filter').submit(function(){
         var is_cbec_action = jQuery('form#posts-filter select[name=action]').val();
