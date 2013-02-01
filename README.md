@@ -1,4 +1,6 @@
-Wordpress---Bulk-Categories-Edit-for-Media
+Wordpress-Bulk-Categories-Edit-for-Media
 ==========================================
 
-wordpress 3.5+ plugin for bulk edition of categories for media
+Allows to edit categories in bulk at attachement/media page, needs to have categories for media enabled.
+
+designed for wordpress 3.5+
