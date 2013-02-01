@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Custom Bulk Edit Categories for media
-Plugin URI: http://www.cchnageinc.com
-Description: custom bulk action for categories for media
+Plugin URI: https://github.com/tomasbulva/Wordpress-Bulk-Categories-Edit-for-Media
+Description: Allows to edit categories in bulk at attachement/media page, needs to have categories for media enabled.
 Author: Tomas Bulva - based on work of Justin Stern and Paul Menard
 Author URI: http://www.cchnageinc.com
-Version: 0.1
+Version: 1.0
 */
 
 if (!class_exists('cbec_action')) {
